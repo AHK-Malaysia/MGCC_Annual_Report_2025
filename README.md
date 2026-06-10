@@ -23,6 +23,11 @@ To publish a live version: **Settings → Pages → Source: `main` branch / root
 
 - The report uses a horizontal-scroll layout; navigate with on-screen controls or arrow keys.
 - Charts are rendered via Chart.js (loaded from CDN).
+- The cover features an animated canvas title sequence (Source Sans Pro).
+
+## Version
+
+Current: **v23 (final)**. Supersedes v18.
 
 ---
 © Malaysian-German Chamber of Commerce and Industry (MGCC). Internal draft — not for redistribution.
